@@ -1,0 +1,14 @@
+layout_spectrum: 0.8669719451572746
+typography_spectrum: 0.3960842548403889
+color:
+  brandStrength: 0.4236635791603476
+  lightness: 0.7037920414004475
+  saturation: 0.29028752399608493
+  rhythmicContrast: 0.999771294882521
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: TheSponge
