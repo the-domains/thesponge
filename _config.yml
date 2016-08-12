@@ -1,4 +1,3 @@
-layout_spectrum: 0.8669719451572746
 typography_spectrum: 0.3960842548403889
 color:
   brandStrength: 0.4236635791603476
@@ -11,4 +10,8 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+layout_spectrum: 0.8669719451572746
+author:
+  name: stefan
+  email: stefancandea@yahoo.de
 name: TheSponge
